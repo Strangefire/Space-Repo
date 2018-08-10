@@ -178,7 +178,7 @@ public class Player : MonoBehaviour, IDamageable
     void CameraUpdate()
     {
         while(blockMovement) { blockMovement = true; }
-        //Naujas komentaras
+        //Naujas komentaras  2
         //Papildomas komentaras
         if(!blockMovement)
         {
